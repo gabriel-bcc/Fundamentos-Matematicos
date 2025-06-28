@@ -1,12 +1,8 @@
 <p align="center">
-  Material de referência baseado nas notas de aula do
-  <br>
-  <strong>Prof. Dr. Nelson José Freitas da Silveira</strong><br>
-  Departamento de Ciência da Computação (DCC) - UNIFAL-MG
-</p>
-
-<p align="center">
-  <small>Material transcrito por José Carlos Tobias da Silva (Ciência da Computação - 2016.1.08.007)</small>
+  <strong>Universidade Federal de Alfenas (Unifal-MG)</strong><br>
+  <strong>Curso:</strong> Ciência da Computação (BCC)<br>
+  <strong>Ano/Semestre:</strong> 2025 / Primeiro<br>
+  <strong>Professor:</strong> Nelson José Freitas da Silveira
 </p>
 
 ---
@@ -55,5 +51,6 @@ A compilação deste material se baseia em obras clássicas da matemática para 
 ---
 
 <p align="center">
-  Este repositório serve como um guia de estudos e um local para armazenar os exercícios resolvidos da disciplina.
+  Este README foi criado com base no Programa de Ensino da disciplina.
 </p>
+
